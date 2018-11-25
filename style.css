@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+#trotting_chrono {
+    font-size: 60px;
+    padding-bottom: 20px;
+    font-family: 'Bree Serif', monospace;
+}
+
+h1 {
+    font-family: 'Bree Serif', monospace;
+}
+
+#start, #pause, #stop {
+    font-weight: bold;
+}
